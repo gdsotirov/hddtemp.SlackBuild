@@ -1,0 +1,15 @@
+hddtemp: hddtemp 0.3 beta 12
+hddtemp:
+hddtemp: hddtemp is a small utility that gives you the temperature of your
+hddtemp: hard drive by reading S.M.A.R.T. informations (for drives that
+hddtemp: support this feature).
+hddtemp:
+hddtemp: Note: only recent hard drives have a temperature sensor.
+hddtemp:
+hddtemp: This package also contains hddtemp device database and GkrellM 2
+hddtemp: plguin.
+hddtemp:
+hddtemp: ---
+hddtemp: Package build by George D. Sotirov <gdsotirov@dir.bg>
+hddtemp: Configure command line: ./configure --prefix=/usr/local
+hddtemp: Package build: 2005-03-03 01:35:00 EET
